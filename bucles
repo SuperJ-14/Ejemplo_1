@@ -1,0 +1,16 @@
+frutas = ["manzana", "pera", "uva"]
+
+for fruta in frutas:
+    print(fruta)
+
+
+""" for """
+for i in range(5):
+    print(f"Vuelta {i}")
+
+
+""" while """
+contador = 0
+while contador < 5:
+    print(f"Contador{contador}")
+    contador = contador + 1

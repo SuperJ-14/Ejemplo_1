@@ -1,0 +1,5 @@
+numero1 = 3
+numeros = [1,2,3,4,5,6,7,8,9,10]
+
+for numeros in numeros:
+    print(f'La tabla es: {numero1} * {numeros} = {numero1*numeros}'  )

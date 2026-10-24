@@ -1,0 +1,13 @@
+nombre = input('Ingresa tu nombre: ')
+edad = int(input('Ingresa tu edad: '))
+altura = input('Ingresa tu estatura: ')
+carrera = input('Ingresa tu carrera: ')
+aprobado = True
+
+print (f'Hola, me llamo {nombre} y tengo {edad} años y estudio en {carrera}, mi estarura es de {altura}m y estoy aprobado = {aprobado}')
+
+
+num1 = int(input('ingrese el primer numero a sumar: '))
+num2 = int(input('ingrese el segundo numero a sumar: '))
+
+print(f"la suma de los números es = {num1 + num2}")
